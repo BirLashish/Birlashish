@@ -4,9 +4,9 @@ import { initReactI18next } from "react-i18next";
 import LanguageDetector from "i18next-browser-languagedetector";
 
 // JSON fayllar
-import en from "./locales/en.json";
-import ru from "./locales/ru.json";
-import uz from "./locales/uz.json";
+import en from "./En.json";
+import ru from "./Ru.json";
+import uz from "./Uz.json";
 
 i18n
     .use(LanguageDetector)        // brauzer tilini aniqlaydi
