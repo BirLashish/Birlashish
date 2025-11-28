@@ -8,6 +8,7 @@ import en from "./En.json";
 import ru from "./Ru.json";
 import uz from "./Uz.json";
 
+
 i18n
     .use(LanguageDetector)        // brauzer tilini aniqlaydi
     .use(initReactI18next)
